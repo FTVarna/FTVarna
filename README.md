@@ -1,6 +1,6 @@
 # Fevzi Tugrul Varna, PhD
 
-**Lead AI Engineer and Observability Architect at iMonitor Limited**  
+**Lead AI Engineer and Observability Architect**  
 Visiting Research Fellow in Informatics, [University of Sussex](https://profiles.sussex.ac.uk/p391890-fevzi-tugrul-varna) · Co-founder, [SwarmLab](https://swarmlab.co.uk/)
 
 I build C# and .NET systems for warehouse operations and business workflows. A question that guides my work is: when one service reports success but the next never completes its task, what evidence would let an engineer explain why?
